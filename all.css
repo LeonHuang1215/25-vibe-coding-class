@@ -2,10 +2,10 @@ body {
   font-family: "Microsoft JhengHei", "sans-serif";
 }
 .linkFont {
-  color: #red;
+  color: red;
 }
 .linkFont:hover {
-  color: #blue;
+  color: blue;
 }
 h1 {
   color: blue;
