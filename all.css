@@ -1,0 +1,20 @@
+body {
+  font-family: "Microsoft JhengHei", "sans-serif";
+}
+.linkFont {
+  color: #red;
+}
+.linkFont:hover {
+  color: #blue;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  border-left: solid 5px green;
+  border-bottom: solid 5px green;
+}
+.mura {
+  max-width: 10%;
+  border: solid 5px gray;
+}
